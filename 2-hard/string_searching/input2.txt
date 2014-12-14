@@ -1,0 +1,8 @@
+QWERTY, TY
+Hello from Moscow,fr
+This is substring shouldn't match,what
+Hello,ell
+This is good, is
+CodeEval,C*Eval
+Old,Young
+C*Eval,C\*Eval
